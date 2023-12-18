@@ -1,16 +1,12 @@
 {
   "name": "Tailwind Font Sizes",
-  "id": "1318702218641678440",
+  "id": "1318714900325696632",
   "api": "1.0.0",
   "main": "code.js",
   "capabilities": [],
   "enableProposedApi": false,
-  "editorType": [
-    "figma"
-  ],
+  "editorType": ["figma"],
   "networkAccess": {
-    "allowedDomains": [
-      "none"
-    ]
+    "allowedDomains": ["none"]
   }
 }
